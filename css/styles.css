@@ -94,23 +94,23 @@ img {
     bottom: 30px;
 }
 
-.logo-nav{
+.logo-nav {
     display: block;
     width: 70px;
-    height: 70px; 
-    background-color: black; 
-    border-radius: 20px; 
+    height: 70px;
+    background-color: black;
+    border-radius: 20px;
 }
 
-.nav-link{
+.nav-link {
     font-size: 1rem;
     color: #FFFFE0;
     background-color: black;
 }
 
-.navbar-toggler{
+.navbar-toggler {
     font-size: 0.8rem;
-    background-color:white;
+    background-color: white;
 }
 
 @media (min-width:600px) {
@@ -234,15 +234,16 @@ h4 {
 
 /* ------------Productos--------------- */
 
-.bg-rojo{
+.bg-rojo {
     background-color: #d45656;
 }
 
 /* ----------Estilo de footer---------- */
 
-.footer-wrap{
+.footer-wrap {
     background-color: black;
 }
+
 .grid-footer {
     padding: 2px;
     background-color: black;
@@ -342,6 +343,13 @@ footer nav ul :hover {
         grid-row: 1/2;
         justify-self: center;
     }
+}
+
+/* ------------PAGE: HISTORIA------------ */
+.elemento-flex {
+    order: 2;
+    border-radius: 10px;
+    border: 2px solid black;
 }
 
 /* ----------PAGE: CONTACTO------------ */
