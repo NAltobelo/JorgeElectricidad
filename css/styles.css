@@ -182,7 +182,11 @@ h4 {
     font-family: 'Verdana', sans-serif
 }
 
-
+main p{
+    font-family: 'Verdana', sans-serif;
+    color: black;
+    font-weight: 600;
+}
 /* estilo de categorias-index */
 
 .categorias-index h2 {
@@ -351,6 +355,7 @@ footer nav ul :hover {
     border-radius: 10px;
     border: 2px solid black;
 }
+
 
 /* ----------PAGE: CONTACTO------------ */
 
